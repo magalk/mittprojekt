@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 body, html { font-size: 100%; padding: 0; margin: 0;}
@@ -21,6 +22,8 @@ a:hover {
 	color: #000;
 }
 header {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #fff;
     text-align:center;
 }
 
