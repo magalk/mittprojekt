@@ -25,11 +25,18 @@ header {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #fff;
     text-align:center;
+    font-size:4em;
 }
 
 .container {
     margin-top:2em;
     text-align:center;
+}
+
+.container p {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #fff;
+    font-size:4em;
 }
 
 
